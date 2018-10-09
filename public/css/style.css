@@ -1,0 +1,9 @@
+.directory-container,
+.directory-card,
+.directory-search-input {
+  margin-top: 20px;
+}
+
+.directory-container {
+  margin-bottom: 40px;
+}
