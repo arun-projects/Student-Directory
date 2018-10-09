@@ -6,7 +6,7 @@
 - Step 1: Download the starter code and run `npm install`.
 - Step 2: Start the server by running `npm start`.
 - Step 3: Navigate your browser to `http://localhost:3000` to see the UI you will be building.
-- You will now write the application code in js/app.js.
+- You will now write the application code in public/js/app.js.
 - Main deliverable is a working application that displays a list of all students in the database using the provided UI.
 - API documentation can be found below.
 
