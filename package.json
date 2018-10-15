@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Course Hero",
+  "author": "Arun Sood",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
