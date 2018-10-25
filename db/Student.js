@@ -1,7 +1,7 @@
+const faker = require("faker");
+
 class Student {
   constructor() {
-    const faker = require("faker");
-
     let students = [];
 
     for (let i = 0; i < 24; i++) {
